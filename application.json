@@ -13,22 +13,6 @@
       "isDefault": false
     },
     {
-      "id": "页面4",
-      "isDefault": false
-    },
-    {
-      "id": "页面5",
-      "isDefault": false
-    },
-    {
-      "id": "页面6",
-      "isDefault": false
-    },
-    {
-      "id": "页面7",
-      "isDefault": false
-    },
-    {
       "id": "Page2",
       "isDefault": false
     },
@@ -42,22 +26,6 @@
     },
     {
       "id": "Page5",
-      "isDefault": false
-    },
-    {
-      "id": "Page6",
-      "isDefault": false
-    },
-    {
-      "id": "Page7",
-      "isDefault": false
-    },
-    {
-      "id": "Page8",
-      "isDefault": false
-    },
-    {
-      "id": "Page9",
       "isDefault": false
     }
   ],
