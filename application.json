@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "页面1",
+      "isDefault": false
+    },
+    {
+      "id": "页面2",
+      "isDefault": false
+    },
+    {
+      "id": "页面4",
+      "isDefault": false
+    },
+    {
+      "id": "页面5",
+      "isDefault": false
+    },
+    {
+      "id": "页面6",
+      "isDefault": false
+    },
+    {
+      "id": "页面7",
+      "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
+    },
+    {
+      "id": "Page4",
+      "isDefault": false
+    },
+    {
+      "id": "Page5",
+      "isDefault": false
+    },
+    {
+      "id": "Page6",
+      "isDefault": false
+    },
+    {
+      "id": "Page7",
+      "isDefault": false
+    },
+    {
+      "id": "Page8",
+      "isDefault": false
+    },
+    {
+      "id": "Page9",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEFDB",
+  "icon": "steam-bowl",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "viewerLayout": "{\"color\":\"#2CBBA6\",\"logoUrl\":\"\",\"name\":\"应用 7\",\"treeData\":[{\"title\":\"Page1\",\"pageId\":\"63b544690ab2a22cbb02def1\",\"isPage\":true},{\"title\":\"页面2\",\"pageId\":\"63b544700ab2a22cbb02defb\",\"isPage\":true},{\"title\":\"一级菜单\",\"expanded\":true,\"children\":[{\"title\":\"页面5\",\"pageId\":\"63b5458e0ab2a22cbb02df1a\",\"isPage\":true},{\"title\":\"页面1\",\"pageId\":\"63b5446e0ab2a22cbb02def6\",\"isPage\":true},{\"title\":\"页面4\",\"pageId\":\"63b545290ab2a22cbb02df15\",\"isPage\":true}]},{\"title\":\"页面6\",\"pageId\":\"63b545920ab2a22cbb02df1f\",\"isPage\":true},{\"title\":\"页面7\",\"pageId\":\"63b546030ab2a22cbb02df27\",\"isPage\":true},{\"title\":\"Page2\",\"pageId\":\"63b546d90ab2a22cbb02df49\",\"isPage\":true},{\"title\":\"Page3\",\"pageId\":\"63b546db0ab2a22cbb02df4d\",\"isPage\":true},{\"title\":\"Page4\",\"pageId\":\"63b546e10ab2a22cbb02df52\",\"isPage\":true},{\"title\":\"Page5\",\"pageId\":\"63b546e20ab2a22cbb02df56\",\"isPage\":true},{\"title\":\"Page6\",\"pageId\":\"63b546e20ab2a22cbb02df5a\",\"isPage\":true},{\"title\":\"Page7\",\"pageId\":\"63b546e70ab2a22cbb02df5f\",\"isPage\":true},{\"title\":\"Page8\",\"pageId\":\"63b546e90ab2a22cbb02df63\",\"isPage\":true},{\"title\":\"一级菜单\",\"expanded\":true,\"children\":[{\"title\":\"一级菜单\",\"expanded\":true,\"children\":[]}]},{\"title\":\"一级菜单\",\"expanded\":true,\"children\":[{\"title\":\"一级菜单\",\"expanded\":true,\"children\":[{\"title\":\"Page9\",\"pageId\":\"63b547210ab2a22cbb02df6b\",\"isPage\":true},{\"title\":\"一级菜单\"}]}]}],\"outsiderTree\":[]}",
+  "deleted": false
+}
