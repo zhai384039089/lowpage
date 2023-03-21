@@ -15,6 +15,10 @@
     {
       "id": "页面3",
       "isDefault": false
+    },
+    {
+      "id": "页面4",
+      "isDefault": false
     }
   ],
   "viewMode": false,
