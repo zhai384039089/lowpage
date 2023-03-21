@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 540,
+          "bottomRow": 530,
           "containerStyle": "none",
           "snapRows": 53,
           "parentRowSpace": 1,
@@ -35,8 +35,8 @@
                 "dropdown",
                 "multi tree select"
               ],
-              "topRow": 10,
-              "bottomRow": 17,
+              "topRow": 2,
+              "bottomRow": 9,
               "parentRowSpace": 10,
               "labelWidth": 5,
               "type": "MULTI_SELECT_TREE_WIDGET",
@@ -47,7 +47,7 @@
               ],
               "animateLoading": true,
               "parentColumnSpace": 11.875,
-              "leftColumn": 17,
+              "leftColumn": 35,
               "dynamicBindingPathList": [
                 {
                   "key": "accentColor"
@@ -87,7 +87,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 37,
+              "rightColumn": 55,
               "dynamicHeight": "FIXED",
               "widgetId": "p7idt9iytk",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -135,6 +135,47 @@
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false
+            },
+            {
+              "boxShadow": "none",
+              "widgetName": "IconButton1",
+              "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+              "displayName": "图标按钮",
+              "iconSVG": "/static/media/icon.1a0c634ac75f9fa6b6ae7a8df882a3ba.svg",
+              "searchTags": [
+                "click",
+                "submit",
+                "icon button"
+              ],
+              "topRow": 3,
+              "bottomRow": 7,
+              "parentRowSpace": 10,
+              "type": "ICON_BUTTON_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 11.875,
+              "leftColumn": 3,
+              "dynamicBindingPathList": [
+                {
+                  "key": "buttonColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "isDisabled": false,
+              "key": "wefe6q5lzw",
+              "isDeprecated": false,
+              "rightColumn": 7,
+              "iconName": "plus",
+              "widgetId": "76gj1faek1",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "buttonVariant": "PRIMARY"
             }
           ]
         },
